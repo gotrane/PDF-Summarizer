@@ -1,0 +1,3 @@
+# 🧠 PDF Summarizer
+
+This is a simple, interactive app that lets you **summarize PDF documents** using a **Retrieval-Augmented Generation (RAG)** pipeline powered by **Ollama**, **LangChain**, and **HuggingFace embeddings** — all wrapped in a user-friendly **Streamlit interface**.
